@@ -25,6 +25,6 @@ func LinearSearch() {
 
 	}
 
-	// fmt.Println("slice", numbers, friends)
+	fmt.Println("slice", numbers, friends)
 
 }

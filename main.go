@@ -8,6 +8,7 @@ import (
 
 func main() {
 	fmt.Println("Hello from main.go")
+
 	PracticeProblemSolving.BinarySearch()
 	PracticeProblemSolving.LinearSearch()
 }
