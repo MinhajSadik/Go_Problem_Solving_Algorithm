@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	PracticeProblemSolving "example.com/Go-Problem-Solving-and-Algorithm/Practice-Problem-Solving"
+	PracticeProblemSolving "example.com/Go-Problem-Solving-and-Algorithm/PracticeProblemSolving"
 )
 
 func main() {
