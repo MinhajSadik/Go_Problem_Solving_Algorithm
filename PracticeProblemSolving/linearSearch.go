@@ -3,7 +3,6 @@ package PracticeProblemSolving
 import "fmt"
 
 func LinearSearch() {
-
 	fmt.Println("Hello From Linear Search")
 	var friends = []string{"minhaj", "ahmed", "sadik", "iftakher", "hanif", "mehedi", "jobeda"}
 

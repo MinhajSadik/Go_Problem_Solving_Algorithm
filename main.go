@@ -9,6 +9,6 @@ import (
 func main() {
 	fmt.Println("Hello from main.go")
 
-	PracticeProblemSolving.BinarySearch()
-	PracticeProblemSolving.LinearSearch()
+	PracticeProblemSolving.BinarySearch([]int{32, 32}, 32)
+	// PracticeProblemSolving.LinearSearch()
 }
